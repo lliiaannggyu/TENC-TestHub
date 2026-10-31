@@ -6,3 +6,7 @@
 
 lliiaannggyu/TENGmusic [dev:oXGxVQJQnVNc3j0mn0wWD8dLlh9/QrFrr7ZjqDbjixAX+iMi9DqaHz+tF/rs]
 lliiaannggyu/tengwear-ecg [dev:jBnEZHZGMo4lE6HQnuo1wGVaY8Nt4XOp3Hb7w3RGMOl9tHNhM1GINHnGrgUD]
+lliiaannggyu/AppOpsPro [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
+lliiaannggyu/wear-tts-book [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
+lliiaannggyu/TENG-Calculator [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
+lliiaannggyu/TENC-Store [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
