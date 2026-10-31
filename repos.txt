@@ -5,3 +5,4 @@
 # 测试者可在应用内对项目反馈（建议/Bug），反馈将发往解密后的开发者邮箱。
 
 lliiaannggyu/TENGmusic [dev:oXGxVQJQnVNc3j0mn0wWD8dLlh9/QrFrr7ZjqDbjixAX+iMi9DqaHz+tF/rs]
+lliiaannggyu/tengwear-ecg [dev:jBnEZHZGMo4lE6HQnuo1wGVaY8Nt4XOp3Hb7w3RGMOl9tHNhM1GINHnGrgUD]
