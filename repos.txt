@@ -1,6 +1,7 @@
 # TENC Store 测试项目索引
 # 说明：这里列出的链接 = 「要测试的项目」的仓库（不是本仓库自身）。
-# 每行一个链接，格式：owner/repo 或完整 GitHub 网址；# 开头为注释行。
-# 添加链接后，应用的「测试项目」页会自动展示这些项目及其最新 APK。
+# 行格式：<owner/repo 或完整 GitHub 网址> [dev:<加密开发者邮箱>]
+# [dev:...] 为可选字段：用应用内置密码本加密的项目开发者邮箱，
+# 测试者可在应用内对项目反馈（建议/Bug），反馈将发往解密后的开发者邮箱。
 
-lliiaannggyu/TENGmusic
+lliiaannggyu/TENGmusic [dev:oXGxVQJQnVNc3j0mn0wWD8dLlh9/QrFrr7ZjqDbjixAX+iMi9DqaHz+tF/rs]
