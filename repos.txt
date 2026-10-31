@@ -1,0 +1,4 @@
+# TENC Store 测试项目索引
+# 每行一个仓库链接（owner/repo 或完整 GitHub 网址），应用会读取这里的链接作为待测试项目。
+# 示例（可自行增删）：
+https://github.com/lliiaannggyu/TENC-TestHub
