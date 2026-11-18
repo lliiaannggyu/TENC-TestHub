@@ -8,7 +8,7 @@ lliiaannggyu/TENGmusic [dev:oXGxVQJQnVNc3j0mn0wWD8dLlh9/QrFrr7ZjqDbjixAX+iMi9Dqa
 lliiaannggyu/tengwear-ecg [dev:jBnEZHZGMo4lE6HQnuo1wGVaY8Nt4XOp3Hb7w3RGMOl9tHNhM1GINHnGrgUD]
 lliiaannggyu/wear-tts-book [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+] [name:离线听书]
 lliiaannggyu/TENC-Store [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
-lliiaannggyu/m3e-mail-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
+lliiaannggyu/m3e-mail-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+] [name:TENG邮箱]
 lliiaannggyu/RoundKeyboardWear [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
 lliiaannggyu/stock-sim-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
 https://github.com/Oride-it/Astur [dev:pqVYlVI8jxoLDqxm0LrSYkDk3SsPrH/q+4mLZ/Wg/Wk1h1b2xtfOGm6tNoUY]
