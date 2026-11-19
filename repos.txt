@@ -6,4 +6,4 @@ lliiaannggyu/RoundKeyboardWear [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhb
 lliiaannggyu/stock-sim-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
 https://github.com/Oride-it/Astur [dev:pqVYlVI8jxoLDqxm0LrSYkDk3SsPrH/q+4mLZ/Wg/Wk1h1b2xtfOGm6tNoUY]
 https://github.com/Oride-it/Wearbuddy [dev:hmsoPNxyr+0yvom8ZpVoU0L9/eALOeCXNsctqvsjZbNfQEntlFnmlzeD234N]
-https://github.com/lliiaannggyu/wearos-mail
+https://github.com/lliiaannggyu/wearos-mail [name:TENG邮箱]
