@@ -3,7 +3,7 @@ lliiaannggyu/tengwear-ecg [dev:jBnEZHZGMo4lE6HQnuo1wGVaY8Nt4XOp3Hb7w3RGMOl9tHNhM
 lliiaannggyu/wear-tts-book [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+] [name:离线听书]
 lliiaannggyu/TENC-Store [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+] [name:TENG商店]
 lliiaannggyu/RoundKeyboardWear [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
-lliiaannggyu/stock-sim-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+]
+lliiaannggyu/stock-sim-wearos [dev:5GUWzQ3EKMglIfFFNjcye71k690EZOl6PBMpwfWvTRhbVf3p7c+/EAhsMgj+] [name:模拟炒股]
 https://github.com/Oride-it/Astur [dev:pqVYlVI8jxoLDqxm0LrSYkDk3SsPrH/q+4mLZ/Wg/Wk1h1b2xtfOGm6tNoUY]
 https://github.com/Oride-it/Wearbuddy [dev:hmsoPNxyr+0yvom8ZpVoU0L9/eALOeCXNsctqvsjZbNfQEntlFnmlzeD234N]
 https://github.com/lliiaannggyu/wearos-mail [name:TENG邮箱]
